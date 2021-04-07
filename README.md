@@ -1,0 +1,1 @@
+This is the repository for The Odin Project's Google Homepage clone (Foundations course).
